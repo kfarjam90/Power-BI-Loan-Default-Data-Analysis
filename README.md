@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes loan default rates and applicant demographics using financial data. The dataset includes metrics such as loan amounts by purpose, average income by employment type, default rates by various categories, and detailed financial profiles of applicants.
 
+![](images/image.png)
+
 ## Key Metrics
 
 ### Loan Default & Overview (Page 1)
